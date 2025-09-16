@@ -49,10 +49,11 @@ To master DSA, we need to learn both **theory and practice**:
   3. Solve problems on platforms (LeetCode, Codeforces, GFG).  
   4. Analyze time and space complexity.  
 
-### Here is a bonus for you...... [Simlpe Roadmap for DSA](/Post 0 - Introduction/BONUS.md)
+### Here is a bonus for you...... [Simlpe Roadmap for DSA](/BONUS.md)
 
 ## Conclusion
 
 - DSA is achieved by learning classes of structures (Lists, Trees, Graphs, etc.) and algorithms that operate on them.
 - DSA is simply, smart ways to store data + smart ways to process it.
+
 
